@@ -17,7 +17,7 @@ The goal is to benchmark performance, latency, and quality across multiple open-
 
 #### Specific from ENGLISH TO HINDI
 
-- Xenova/opus-mt-en-hi : ONNX converted from Helsinki-NLP/opus-mt-en-hi
+- Xenova/opus-mt-en-hi : ONNX converted from Helsinki-NLP/opus-mt-en-hi, slow in convertion and gives wrong translaiton outputs due to "MarianTokenizer" not added in "fast tokenizer" transformers.
 
 #### General
 
