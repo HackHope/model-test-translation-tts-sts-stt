@@ -1,0 +1,12 @@
+{
+  "name": "testing-huggingface-transformers",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node js/index.js"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.7.4",
+    "wavefile": "^11.0.0"
+  }
+}
