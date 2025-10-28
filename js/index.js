@@ -1,7 +1,4 @@
-import { runTranslation } from "./models/translation.js";
-// import { runTTS } from "./models/tts.js";
 import { runSTT } from "./models/stt.js";
-// import { runSTS } from "./models/sts.js";
 
 async function main() {
     console.log("=== Testing Edge Models ===");
